@@ -1,16 +1,16 @@
-## Hi there 👋6ddd
+# 👋 Hola, soy Mathias Fernández
 
-<!--
-**MathiasFer/MathiasFer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de ingeniería y desarrollador en crecimiento. Me gusta la programación, las redes, los sistemas y todo lo que implique aprender cosas nuevas.  
+Ah… y **soy un crack en PSeInt**, el verdadero lenguaje de los dioses 😎🔥.
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
+- 💻 Aprendiendo backend con Java & Spring Boot  
+- 🗄️ Me gusta trabajar con SQL, modelos E-R y bases de datos  
+- 🛠️ Entusiasta de redes y administración de sistemas  
+- 🧪 Me gustan los proyectos donde puedo probar, romper y optimizar cosas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😎 Prueba de que soy un crack en PSeInt
+<p align="center">
+  <img src="https://media.tenor.com/K9bVq4GgY7gAAAAM/hacker-pupper-hacker.gif" width="300">
+</p>
+
