@@ -13,4 +13,22 @@ Ah… y **soy un crack en PSeInt**, el verdadero lenguaje de los dioses 😎🔥
 <p align="center">
   <img src="https://media.tenor.com/K9bVq4GgY7gAAAAM/hacker-pupper-hacker.gif" width="300">
 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+  <!-- Java -->
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+         alt="java" width="40" height="40"/>
+  </a>
+
+  <!-- PSeInt -->
+  <a href="http://pseint.sourceforge.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/PSeInt-Developers/pseint/master/docs/img/icono256.png"
+         alt="pseint" width="40" height="40"/>
+  </a>
+
+</p>
+
+
 
