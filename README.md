@@ -4,5 +4,4 @@
 
 ## 🎮 Play my game
 
-[![Play Tetris](https://img.shields.io/badge/PLAY-TETRIS-00ff90?style=for-the-badge&logo=gamepad)]([https://mathiasFer.github.io/tetris-terminal](https://mathiasfer.github.io/tetris-terminal/))
-
+[![Play Tetris](https://img.shields.io/badge/PLAY-TETRIS-black?style=for-the-badge&logo=gamepad)](https://mathiasfer.github.io/tetris-terminal/)
